@@ -1,7 +1,24 @@
 aid: vaire
-name: Vaire
-description: Vaire is a company surfaced as a portfolio company of seedcamp and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vaire.png
+name: Vaire Computing
+description: Vaire Computing is a deep-tech semiconductor startup building reversible
+  computing chips for near-zero energy computing. Its reversible logic gates recover
+  and recycle the energy of computation instead of dissipating it as heat, aiming
+  to decouple energy consumption from growth in computing power. The company was
+  co-founded by Rodolfo Rosini (CEO) and Dr Hannah Earley (CTO), is backed by Seedcamp,
+  7percent Ventures, and Lifeline Ventures, and publishes technology and software
+  whitepapers. Vaire currently publishes no public API, SDK, or developer portal.
 url: https://raw.githubusercontent.com/api-evangelist/vaire/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,9 +28,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Semiconductors
+- Hardware
+- Reversible Computing
+- Energy Efficiency
+- Deep Tech
+- Chips
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +45,25 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://vaire.co
+  url: https://vaire.co
+- type: About
+  url: https://vaire.co/about
+- type: Contact
+  url: https://vaire.co/contact
+- type: Whitepapers
+  url: https://vaire.co/whitepapers
+- type: GitHubOrganization
+  url: https://github.com/vaire-computing
+- type: LinkedIn
+  url: https://linkedin.com/company/vaire-computing
+- type: Twitter
+  url: https://x.com/vairehq
+- type: DomainSecurity
+  url: security/vaire-domain-security.yml
+- type: LLMsTxt
+  url: llms/vaire-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1

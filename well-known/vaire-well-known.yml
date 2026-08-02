@@ -1,0 +1,21 @@
+generated: '2026-07-21'
+method: searched
+source: live HTTP probes of https://vaire.co
+host: https://vaire.co
+notes: No /.well-known/ discovery documents are published; all probes returned 404.
+  Vaire Computing is a reversible-computing hardware company with no public API surface.
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
+- path: /security.txt
+  status: 404

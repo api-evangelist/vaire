@@ -1,0 +1,19 @@
+# Vaire Computing
+
+> Vaire Computing is a deep-tech semiconductor startup building reversible computing chips for near-zero energy computing. Its reversible logic gates recover and recycle the energy of computation instead of dissipating it as heat, aiming to decouple energy consumption from growth in compute. Co-founded by Rodolfo Rosini (CEO) and Dr Hannah Earley (CTO); backed by Seedcamp, 7percent Ventures, and Lifeline Ventures. Vaire publishes no public API, SDK, or developer portal today.
+
+## Company
+
+- [Website](https://vaire.co/): Vaire Computing — maximum compute, minimal heat
+- [About](https://vaire.co/about): Founders, leadership, and investors
+- [Contact](https://vaire.co/contact): Contact the company
+- [GitHub Organization](https://github.com/vaire-computing): Official GitHub org (no public repos yet)
+
+## Whitepapers
+
+- [Introducing Near-Zero Energy Computing](https://vaire.co/uploads/Technology-Whitepaper_compressed.pdf): Technology whitepaper on reversible computing
+- [Software First Computing Architectures](https://vaire.co/uploads/Software-Whitepaper.pdf): Software whitepaper
+
+## APIs
+
+- None published. This profile is maintained by API Evangelist at https://github.com/api-evangelist/vaire for future discovery.
